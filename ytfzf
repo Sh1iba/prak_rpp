@@ -1,5 +1,6 @@
 #!/usr/bin/env sh
 третье изменение в branch1
+первый коммит в branch1 после слияния
 # state variables
 : "${__is_submenu:=0}" "${__is_fzf_preview:=0}"
 
